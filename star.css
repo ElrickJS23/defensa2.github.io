@@ -11,7 +11,7 @@ body {
   }
   p{
       color: antiquewhite;
-      font-size: 16px;
+      font-size: 5vw;
   }
   h1{
       margin-left: auto; margin-right: auto;
@@ -19,6 +19,10 @@ body {
   img {
       width: 100%;
       height: auto;
+  }
+  iframe {
+    width: 100%;
+    height: auto;
   }
   footer{
       background-color: coral;
@@ -37,7 +41,16 @@ body {
       border: 1px solid #555;
       position: relative;  
   }
-
+  h2{
+    color: chocolate;
+    border-style: dotted;
+    border-color: darkorange;
+    background-color: bisque;
+  }
+  li{
+      color: firebrick;
+      font-size: x-large;
+  }
   .galeria img {
       position: absolute;
       top: 0;
